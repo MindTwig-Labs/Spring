@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: integration-services-testing
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: com.mindtwig.endpoint
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/integration
+ -services-testing
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
