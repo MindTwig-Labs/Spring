@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mindtwig.endpoint.test.controller.StudentControllerTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.833 s - in com.mindtwig.endpoint.test.controller.StudentControllerTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.464 s - in com.mindtwig.endpoint.test.controller.StudentControllerTest
